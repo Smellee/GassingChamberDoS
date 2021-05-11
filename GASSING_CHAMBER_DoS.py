@@ -28,7 +28,7 @@ print(Fore.LIGHTGREEN_EX + '''
 GASSING CHAMBER DoS script by Smelly
 discord: smelly#3078
 this is not for educational purposes :)
-*this only sends max 40mbps this is a weak DoSer use in a botnet for max performance
+*this only sends max 50mbps this is a weak DoSer use in a botnet for max performance
 ================================
      ''')
 
